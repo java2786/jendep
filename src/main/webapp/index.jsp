@@ -9,6 +9,7 @@
 			padding: 10px;
 			background-color: black;
 			outline: 5px solid green;
+			font-size: 56px;
 		}
 	</style>
 </head>
