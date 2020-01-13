@@ -32,7 +32,7 @@ pipeline {
         stage('Deploy') { 
             steps {
                 // package code
-                bat label: '', script: 'mvn deploy'
+                bat label: '', script: 'mvn install'
             }
         }
 
