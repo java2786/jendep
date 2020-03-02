@@ -5,7 +5,7 @@
   <artifactId>P35_WebApplication</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>P35_WebApplication Maven Webapp</name>
+  <name>jenkins-deploy-demo Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>P35_WebApplication</finalName>
+    <finalName>jenkins-deploy-demo</finalName>
   </build>
 </project>
